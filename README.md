@@ -1,3 +1,3 @@
 # sum_test
 
-## this is test repository
+## this is homework repository
